@@ -1,0 +1,1 @@
+# Opening-Momentum-Strategy
