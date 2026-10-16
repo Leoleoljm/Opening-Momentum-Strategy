@@ -16,4 +16,4 @@ The idea behind this setup:
 2. If the catalyst attracts attention, its traded volume should be high.
 3. When there are sellers waiting above, there could be downward pressure on the stock. We could also set take profit to be the resistance level.
 
-The goal is to understand the typical behavior of the stock price evolution under this set up, and from there we can develop entries, exits and position sizing.
+The goal is to understand the typical behavior of the stock price evolution under this set up, and from there we can find entries, exits and position sizing.
